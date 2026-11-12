@@ -13,3 +13,5 @@ How to use (Windows):
  * Test it by locking your PC (Win + L) and unlocking it. The captured images will be in `/captures`
 
 > For Mac users, you can use the source code to turn it into a `.app` file.
+
+> CHANGE OF PLANS SOON
